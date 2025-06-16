@@ -1,0 +1,6 @@
+[submodule "Tektitans-Navibot"]
+	path = Tektitans-Navibot
+	url = https://github.com/JohnAzurin/Tektitans-Navibot.git
+[submodule "BIP-portal"]
+	path = BIP-portal
+	url = https://github.com/2025-BIP-Interns/BIP-portal.git
